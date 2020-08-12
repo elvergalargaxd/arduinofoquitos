@@ -123,7 +123,7 @@ void loop() {
   
   /*delay(500);
 
- 
+ //hola mundo xdxd v2
   // remove value
   Firebase.remove("number");
   delay(100);
